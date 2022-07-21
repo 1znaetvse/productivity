@@ -1,0 +1,76 @@
+header {
+    font-family: 'Quicksand';
+    font-style: normal;
+
+    font-size: 15px;
+    line-height: 15px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    padding: 35px;
+    text-shadow: 0px 0px 5px #E6E6E6;
+
+}
+
+.logo {
+    /* logo */
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    left: 117px;
+    top: 27px;
+
+}
+
+.header-home {
+    /* Home */
+    position: absolute;
+    width: 37px;
+    height: 15px;
+    left: 216px;
+}
+.header-blog {
+    /*Blog*/
+    position: absolute;
+    width: 28px;
+    height: 15px;
+    left: 295px;
+
+}
+
+.header-features {
+    /* Features */
+    position: absolute;
+    width: 55px;
+    height: 15px;
+    left: 365px;
+}
+
+.header-pricing {
+    /* Pricing */
+    position: absolute;
+    width: 43px;
+    height: 15px;
+    left: 462px;
+}
+
+.header-doc {
+/* Documentation */
+    position: absolute;
+    width: 96px;
+    height: 15px;
+    left: 547px;
+}
+
+.social_media {
+    /* social media */
+    position: absolute;
+    display: inline-flex!important;
+    padding-top: 8px;
+    padding-left: 150px;
+}
+.facebook-icon{padding-right: 25px;}
+.telegram-icon {padding-right: 25px;}
+.twitter-icon {padding-right: 25px;}
+.mail-icon {padding-right: 60px;}

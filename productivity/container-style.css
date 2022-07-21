@@ -1,0 +1,11 @@
+.text_and_illustration {
+    margin: 13em;
+    font-family: 'Roboto';
+    align-items: center;
+    text-align: center;
+    color: #3D4F9F;
+}
+#tai_h1 {
+    font-family: 'Quicksand' 'light';
+    font-size: 40px;
+}
